@@ -6,4 +6,4 @@ Learning how to use GitHub (and learning how to program in general), so I think 
 
 probably
 
-ngl I'll probably give up after a bit, but who cares!
+I'll probably give up after a bit, but who cares!
