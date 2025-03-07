@@ -9,11 +9,4 @@ def check(array):
         elif i == len(array)-1:
             print("no 'hello, world' characters in input")
 
-"""
-if len(helloworld) > len(input):
-    whichone = input
-else:
-    whichone = helloworld
-"""
-
 check(input)
